@@ -119,7 +119,7 @@ Example configuration:
 
 ```js
 global.APIKeys = {
-  'https://api.naze.biz.id': 'YOUR_API_KEY_HERE'
+  'https://api.naze.biz.id': 'nz-0f9444bebd'
 }
 ```
 
